@@ -7,7 +7,7 @@ Library PHP untuk redenominasi rupiah dengan menghilangkan 3 digit jutaan.
 Install melalui Composer:
 
 ```bash
-composer require yourvendor/redenominasi
+composer require the-lazy-programmer/redenominasi
 ```
 
 ## Penggunaan
